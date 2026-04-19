@@ -1,0 +1,41 @@
+{
+  "nome": "Mariana Costa",
+  "idade": 27,
+  "profissao": "Designer Freelancer",
+  "renda_mensal_media": 3800.00,
+  "variacao_renda": "alta",
+  "gastos_mensais_medios": 2900.00,
+  "perfil_investidor": "conservador",
+  "objetivo_principal": "Organizar finanças e criar estabilidade",
+  "patrimonio_total": 6200.00,
+  "reserva_emergencia_atual": 2500.00,
+  "aceita_risco": false,
+  "percentual_poupado_mensal": 0.10,
+  "dividas_ativas": [
+    {
+      "tipo": "Cartão de crédito",
+      "valor_total": 1800.00,
+      "parcela_mensal": 300.00
+    }
+  ],
+  "metas": [
+    {
+      "meta": "Quitar dívida do cartão",
+      "valor_necessario": 1800.00,
+      "valor_atual": 600.00,
+      "prazo": "2026-03"
+    },
+    {
+      "meta": "Montar reserva de emergência",
+      "valor_necessario": 8700.00,
+      "valor_atual": 2500.00,
+      "prazo": "2026-12"
+    },
+    {
+      "meta": "Trocar de notebook para trabalho",
+      "valor_necessario": 5000.00,
+      "valor_atual": 1200.00,
+      "prazo": "2027-06"
+    }
+  ]
+}
