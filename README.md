@@ -61,5 +61,4 @@ Crie um arquivo `.env` na raiz do projeto:
 GEMINI_API_KEY=sua-chave-aqui
 
 ### 5. Executar aplicação
-streamlit run src/app.py
-
+streamlit run app.py
