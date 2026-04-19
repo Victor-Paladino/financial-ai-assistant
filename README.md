@@ -47,10 +47,12 @@ cd finsight
 
 ### 2. Criar ambiente virtual (opcional)
 python -m venv venv
-venv\Scripts\activate  
+
 #### Windows
-#### source venv/bin/activate  
-#### Mac/Linux (caso alguém fora do Windows exista no seu universo)
+venv\Scripts\activate
+
+#### Mac/Linux
+source venv/bin/activate
 
 ### 3. Instalar dependências
 pip install -r requirements.txt
