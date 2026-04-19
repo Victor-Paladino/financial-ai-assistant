@@ -1,0 +1,13 @@
+data,canal,tema,resumo,resolvido,valor_mencionado
+2025-09-15,chat,CDB,Cliente perguntou sobre CDB com liquidez diária e comparou com poupança,não,15000
+2025-09-18,chat,Gastos mensais,Cliente quis entender aumento nos gastos com delivery nos últimos 2 meses,sim,820
+2025-09-22,telefone,Problema no app,Erro ao visualizar extrato persistiu após atualização,não,0
+2025-09-25,chat,Reserva de emergência,Cliente tem gastos médios de R$ 2.400 e quer calcular reserva ideal,sim,2400
+2025-10-01,chat,Tesouro Selic,Cliente pediu explicação e simulou investimento inicial,sim,5000
+2025-10-05,email,Cartão de crédito,Cliente relatou fatura acima do esperado e pediu ajuda para entender cobranças,não,3200
+2025-10-08,chat,Planejamento financeiro,Cliente quer organizar orçamento mensal com renda variável,sim,3500
+2025-10-12,chat,Metas financeiras,Cliente acompanhou progresso da reserva e está abaixo do esperado,não,4200
+2025-10-18,telefone,Empréstimo pessoal,Cliente avaliando impacto de parcela no orçamento mensal,sim,1200
+2025-10-21,chat,Investimentos básicos,Cliente perguntou diferença entre CDI e Selic com exemplo prático,sim,10000
+2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim,0
+2025-10-28,chat,Controle de gastos,Cliente percebeu aumento em lazer e quer entender impacto no orçamento,sim,950
