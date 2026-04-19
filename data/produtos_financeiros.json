@@ -1,0 +1,57 @@
+[
+  {
+    "nome": "Tesouro Selic",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "liquidez": "diária",
+    "rentabilidade": "próxima da Selic (varia conforme mercado)",
+    "imposto": "IR regressivo",
+    "garantia": "Tesouro Nacional",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Reserva de emergência e quem busca estabilidade"
+  },
+  {
+    "nome": "CDB com liquidez diária",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "liquidez": "diária",
+    "rentabilidade": "100% a 105% do CDI",
+    "imposto": "IR regressivo",
+    "garantia": "FGC até R$ 250 mil",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Alternativa ao Tesouro Selic com proteção do FGC"
+  },
+  {
+    "nome": "LCI/LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "liquidez": "baixa (carência de 90 dias ou mais)",
+    "rentabilidade": "85% a 95% do CDI (isento de IR)",
+    "imposto": "isento",
+    "garantia": "FGC até R$ 250 mil",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quem pode deixar o dinheiro parado por um período"
+  },
+  {
+    "nome": "Fundos Imobiliários (FII)",
+    "categoria": "renda_variavel",
+    "risco": "medio",
+    "liquidez": "alta (negociado em bolsa)",
+    "rentabilidade": "rendimentos mensais + variação de preço",
+    "imposto": "isento nos dividendos (com regras)",
+    "garantia": "não possui",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem busca renda mensal e aceita oscilações"
+  },
+  {
+    "nome": "Fundos de Ações",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "liquidez": "média (resgates em D+X)",
+    "rentabilidade": "variável (depende do mercado)",
+    "imposto": "IR sobre ganho de capital",
+    "garantia": "não possui",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Objetivos de longo prazo com tolerância a risco"
+  }
+]
