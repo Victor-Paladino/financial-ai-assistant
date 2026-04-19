@@ -1,0 +1,19 @@
+data,descricao,categoria,valor,tipo
+2025-10-01,Salário,receita,4200.00,entrada
+2025-10-02,Freela design,receita,900.00,entrada
+2025-10-03,Aluguel,moradia,1300.00,saida
+2025-10-04,Supermercado,alimentacao,520.00,saida
+2025-10-05,Delivery iFood,alimentacao,85.00,saida
+2025-10-06,Assinatura Spotify,lazer,21.90,saida
+2025-10-07,Farmácia,saude,140.00,saida
+2025-10-09,Bar com amigos,lazer,160.00,saida
+2025-10-10,Restaurante,alimentacao,110.00,saida
+2025-10-12,Uber,transporte,65.00,saida
+2025-10-14,Parcela cartão,dividas,300.00,saida
+2025-10-15,Conta de Luz,moradia,210.00,saida
+2025-10-18,Internet,moradia,120.00,saida
+2025-10-20,Academia,saude,119.00,saida
+2025-10-22,Combustível,transporte,280.00,saida
+2025-10-25,Compra online,lazer,230.00,saida
+2025-10-27,Manutenção notebook,trabalho,350.00,saida
+2025-10-29,Presente,lazer,90.00,saida
